@@ -1,0 +1,76 @@
+ body {
+background-image: url("img/Mount.jpg");
+font-family: Arial, sans-serif;
+font-size: 14px;
+color:#000;
+margin: 0;
+padding-top: 270px;
+background-size:cover;
+background-size:100%;
+background-repeat: no-repeat;
+background-color: :#0d3d0d ;
+}
+
+
+    }
+.swiper-container {
+width: 100%;
+padding-top: 0px;
+padding-bottom: 0px;
+    }
+    .swiper-slide {
+background-position: center;
+background-size: cover;
+width: 400px;
+height: 380px;
+background: #dfecec;
+
+}
+
+
+
+
+}
+.swiper-slide .imgBx
+
+{
+	width:400%;
+	height:400px;
+	overflow:hidden;
+}
+
+.swiper-slide .imgBx img{
+	width: 100%;
+
+}
+
+.swiper-slide .details
+{
+	box-sizing: border-box;
+	font-size: 30px;
+	padding:20px;
+}
+
+.swiper-slide .details h3 {
+	margin:0;
+	margin:0;
+	font-size: 20px;
+	text-align: center;
+}
+.swiper-slide .details h3 span {
+	font size:16px;
+	color: forestgreen;
+
+}
+
+@media screen and (max-width: 1250px){
+ body {
+ 	width: 100%;
+ 	background-color: #fff;
+ 	background-image: url("img/black.png");
+ }
+.swiper-slide .imgBx img{
+	width:100%;
+
+
+
