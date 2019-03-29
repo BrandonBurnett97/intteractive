@@ -1,5 +1,5 @@
  body {
-background-image: url("img/Mount.jpg");
+background-image: url("Img/Mount.jpg");
 font-family: Arial, sans-serif;
 font-size: 14px;
 color:#000;
@@ -70,7 +70,7 @@ background: #dfecec;
  body {
  	width: 100%;
  	background-color: #fff;
- 	background-image: url("img/black.png");
+ 	background-image: url("Img/black.png");
  }
 .swiper-slide .imgBx img{
 	width:100%;
