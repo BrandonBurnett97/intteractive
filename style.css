@@ -42,7 +42,7 @@ background: #dfecec;
 	overflow:hidden;
 }
 
-.swiper-slide .imgBx img{
+.swiper-slide .ImgBx Img{
 	width: 100%;
 
 }
@@ -72,7 +72,7 @@ background: #dfecec;
  	background-color: #fff;
  	background-image: url("Img/black.png");
  }
-.swiper-slide .imgBx Img{
+.swiper-slide .ImgBx Img{
 	width:100%;
 
 
